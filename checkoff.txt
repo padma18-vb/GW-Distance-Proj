@@ -1,1 +1,0 @@
-Git remote creates a remote repository from which you can push and pull changes, and you can use this repository to collaborate with others on projects as you will all have access to the modifications made. This repository isn't on your local disk, rather its stored on GitHub or some other server.
